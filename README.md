@@ -6,4 +6,4 @@ It checks the user's bandwith and device to determine the best size and bitrates
 
 ## Examples
 * https://www-dev.videri.com/
-* https://fntworldwide.zalo.nyc/
+* http://fntworldwide.com/
