@@ -10,4 +10,7 @@ It checks the user's bandwith and device to determine the best size and bitrates
 
 ## Pulling data from WP instead of store.js
 
+![alt text](http://zalo.nyc/screenshot_1.png)
+![alt text](http://zalo.nyc/screenshot_2.png)
+
 
